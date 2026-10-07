@@ -1,6 +1,6 @@
 ﻿namespace LoanApplication.Interface
 {
-    public class User
+    public interface ICustomerService
     {
     }
 }
